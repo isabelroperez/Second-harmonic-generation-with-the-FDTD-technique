@@ -1,0 +1,4 @@
+*.nb linguist-detectable=false
+*.txt linguist-detectable=false
+*.pdf linguist-detectable=false
+*.dat linguist-detectable=false
